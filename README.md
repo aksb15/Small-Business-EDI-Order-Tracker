@@ -22,12 +22,12 @@ This project solves that by:
 
 ### 1. Raw Excel File (as downloaded from the EDI system)  
 Messy formatting, merged cells, multiple order blocks stacked one after another:  
-![Messy Excel] (https://github.com/user-attachments/assets/639a9370-11c6-4850-b74d-5c7024fa1287)
+![Messy Excel](https://github.com/user-attachments/assets/639a9370-11c6-4850-b74d-5c7024fa1287)
  
 
 ### 2. CSV Conversion  
 Readable as plain text, but still not easy to analyze directly:  
-![CSV] (https://github.com/user-attachments/assets/48d210f7-6dcd-469d-bbdd-cc736edb06c2)
+![CSV](https://github.com/user-attachments/assets/48d210f7-6dcd-469d-bbdd-cc736edb06c2)
  
 
 ---
@@ -36,7 +36,7 @@ Readable as plain text, but still not easy to analyze directly:
 
 After running the ETL pipeline, we get a clean, structured dataset:  
 
-![ETL Output] (https://github.com/user-attachments/assets/8b825130-540a-48f1-a051-1634b73b36b2)
+![ETL Output](https://github.com/user-attachments/assets/8b825130-540a-48f1-a051-1634b73b36b2)
 
 
 
